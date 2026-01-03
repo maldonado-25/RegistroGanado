@@ -1,0 +1,14 @@
+# Buildozer
+.buildozer/
+bin/
+
+# Python
+__pycache__/
+*.pyc
+
+# Android builds
+*.apk
+*.aab
+
+# OS
+.DS_Store

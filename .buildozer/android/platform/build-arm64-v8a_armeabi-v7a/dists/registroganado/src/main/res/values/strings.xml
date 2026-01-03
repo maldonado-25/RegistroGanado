@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">RegistroGanado</string>
-    <string name="private_version">96c7a6604363895266e17f39ac7a0b4aa15aefd1</string>
-    <string name="presplash_color">#000000</string>
-    <string name="urlScheme">kivy</string>
-</resources>
